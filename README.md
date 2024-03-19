@@ -45,6 +45,6 @@ And some more...
     <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="Freelancer">
 </a>
 </br>
-<a href="https://www.freelancer.es/u/JuanGarcia12001?frm=JuanGarcia12001&sb=t" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/juan-garcia-9690ba257/" target="_blank" rel="noreferrer">
     <img src="https://camo.githubusercontent.com/b5b4f473d4afbd152697206b9da8d848cccb7c6ecaf16a777cc73af8efdfbfb8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333144413146322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn">
 </a>

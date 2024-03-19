@@ -1,8 +1,7 @@
-[![emote_juangarcia1.png](https://www.freelancer.es/u/JuanGarcia12001)](https://www.freelancer.es/u/JuanGarcia12001) Hi, my name is Juan Garcia <img src="hello.gif" width="40">
+# ![https://www.freelancer.es/u/JuanGarcia12001](emote_juangarcia1.png) Hi, my name is Juan Garcia <img src="hello.gif" width="40">
 
 ### Systems Engineer - Freelance Full-Stack
 
-[![banner_juan_g.png](https://www.freelancer.es/u/JuanGarcia12001)](https://www.freelancer.es/u/JuanGarcia12001)
+![https://www.freelancer.es/u/JuanGarcia12001](banner_juan_g.png)
 
-![line.gif]()
-
+![Descripción opcional](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)

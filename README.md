@@ -1,4 +1,4 @@
-# ![https://www.freelancer.es/u/JuanGarcia12001?frm=JuanGarcia12001&sb=t](emote_juangarcia1.png) Hi, my name is Juan Garcia <img src="hello.gif" width="40">
+# ![https://www.freelancer.es/u/JuanGarcia12001?frm=JuanGarcia12001&sb=t](emote_juangarcia1.png) Hi, my name is Juan Garcia <img src="hello.gif" width="40" style="transform: scaleX(-1);">
 
 ### Systems Engineer - Freelance Full-Stack
 
@@ -28,7 +28,7 @@ I am excited for what the future holds and for the opportunities that may arise 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-And some more...
+And some more..
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="30"> Other Skills:
 

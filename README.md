@@ -2,7 +2,7 @@
 
 ### Systems Engineer - Freelance Full-Stack
 
-![https://www.freelancer.es/u/JuanGarcia12001?frm=JuanGarcia12001&sb=t](banner_juan_g2.png)
+![https://www.freelancer.es/u/JuanGarcia12001?frm=JuanGarcia12001&sb=t]([banner_juan_g2.png](https://miro.medium.com/1*U62pEikCBvM1gjIDlAry7Q.png))
 
 ![Descripción opcional](line.gif)
 
